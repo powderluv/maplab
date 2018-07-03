@@ -3,6 +3,7 @@
 
 #include <random>
 #include <string>
+#include <gflags/gflags.h>
 
 #include <maplab-common/macros.h>
 #include <yaml-cpp/yaml.h>
